@@ -1,6 +1,6 @@
 import json
 
-print ("hellworld")
+print ("hellomathlabs")
 def lambda_handler(event, context):
     # TODO implement
     print("event")
