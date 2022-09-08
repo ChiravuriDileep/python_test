@@ -8,11 +8,9 @@ The circle ci has the below steps
         
         2.Tag the image (using the Git commit hash of the HEAD == CIRCLE_SHA1 )
         
-        3.Login to Amazon ECR
+        3.Login to Amazon EC
         
-        4.Create an Amazon ECR repo, if one doesn’t exist
-        
-        5.Push an image to Amazon ECR
+        4.Push an image to Amazon ECR
 
         we need pass the below details 
         
