@@ -1,6 +1,6 @@
 import json
 
-print ("hellomathlabs")
+print ("hellomathlab 2")
 def lambda_handler(event, context):
     # TODO implement
     print("event")
