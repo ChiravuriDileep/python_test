@@ -27,6 +27,6 @@ The circle ci has the below steps
 Once this step executed it builds image using docker file and it pushes the image to docker repository which we provided in the aws-ecr orb configuration. 
 
 
-We have set up a cloudwatch event rule which will trigger the AWS batch job on the event of suucessful push of Image to ECR repo
+We have set up a cloudwatch event rule which will trigger the AWS batch job on the event of successful push of Image to ECR repo
 
  
